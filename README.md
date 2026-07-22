@@ -33,7 +33,7 @@ I'm a junior software developer with strong C# experience from Unity development
 ### Web Development
 - **Personal Portfolio Website**: Responsive design showcasing my projects using HTML, CSS, and JavaScript
 - **Task Management Application**: Interactive web app with local storage and Firestore integration
-- **[Gym Workout Tracker](https://codeoverdose.es/gym/)**: Offline-capable PWA with bounded long-term progress history, routines, sessions, and Quick Log ([source](https://github.com/metalfurius/gym))
+- **[Gym Workout Tracker](https://codeoverdose.es/gym/)**: Offline-capable PWA with bounded long-term progress history, revisioned service-worker updates, routines, sessions, and Quick Log ([source](https://github.com/metalfurius/gym))
 
 ### Unity Development
 - **VR Training Application** (Visionary Tool): Implemented immersive VR features including interactive tutorials, animations, and UI systems
